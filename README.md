@@ -1,5 +1,7 @@
 # CONCURRENCIA  EN JAVA
 
+![Demo](https://github.com/DanielEspanadero/concurrence-hair-salon/blob/main/docs/java.jpg)
+
 ## Ejemplo sencillo para explicar la concurrencia en Java
 
 Este proyecto es un ejemplo sencillo de cómo implementar concurrencia en Java utilizando hilos (threads) y mecanismos de sincronización. El objetivo es simular el funcionamiento de una peluquería, donde hay tres peluqueras y diez clientes. Cada peluquera atiende a un cliente en un tiempo aleatorio entre 1 y 10 segundos.
@@ -43,3 +45,11 @@ El principal uso de la concurrencia en este proyecto se encuentra en la simulaci
 
 👉 El tiempo de atención de las peluqueras se simula utilizando Thread.sleep(). Si bien esto no está directamente relacionado con la concurrencia, es importante tener en cuenta que el tiempo de atención es independiente entre las peluqueras y se ejecuta en paralelo.
 
+## Autor ✒️
+
+* [Daniel Españadero](https://github.com/DanielEspanadero)
+
+
+## Licencia 📄
+
+_Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENCIA](https://github.com/DanielEspanadero/concurrence-hair-salon/blob/main/LICENSE) para más detalles._
